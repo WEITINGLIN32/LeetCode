@@ -21,7 +21,7 @@
 
 |[27. Remove Element](https://leetcode.com/problems/remove-element/) | [Python](./code/python/RemoveElement.py) | Easy |
 
-|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+|[28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Python](./code/python/ImplementstrStr.py) | Easy |
 
 |[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
 
