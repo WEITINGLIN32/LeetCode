@@ -14,6 +14,7 @@ Example:
     Input: (2 -> 4 -> 3) + (5 -> 6 -> 4)
     Output: 7 -> 0 -> 8
     Explanation: 342 + 465 = 807.   
+    
 '''
 
 # Definition for singly-linked list.
@@ -59,7 +60,7 @@ class Solution:
                         result.append(num%10)
 
             return result
-            
+
         else:
             for i in range(len(output2)):
                 if i > len(output1)-1:
