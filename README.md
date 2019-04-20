@@ -1,6 +1,6 @@
 # **LeetCode**
 
-| # | Title | Solution | Difficulty |
-|---| ----- | -------- | ---------- |
+| Title | Solution | Difficulty |
+| ----- | -------- | ---------- |
 
-|322|[Coin Change](https://leetcode.com/problems/coin-change/) | [C++](./algorithms/cpp/coinChange/coinChange.cpp)|Medium|
+[1 Coin Change](https://leetcode.com/problems/coin-change/) | [C++](./algorithms/cpp/coinChange/coinChange.cpp)|Medium|
