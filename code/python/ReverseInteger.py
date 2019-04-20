@@ -1,5 +1,5 @@
 '''
-Title: 7. Reverse Integer (Easy)
+Title: 7. Reverse Integer (Easy)    https://leetcode.com/problems/reverse-integer/
 
 Runtime: 40 ms, faster than 99.91% of Python3 online submissions for Reverse Integer.
 Memory Usage: 13.1 MB, less than 5.71% of Python3 online submissions for Reverse Integer.
@@ -16,7 +16,7 @@ Example:
 
     Input: 120
     Output: 21
-    
+
 '''
 
 class Solution:

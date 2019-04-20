@@ -1,5 +1,5 @@
 '''
-Title: 9. Palindrome Number (Easy)
+Title: 9. Palindrome Number (Easy)  https://leetcode.com/problems/palindrome-number/
 
 Runtime: 84 ms, faster than 92.47% of Python3 online submissions for Palindrome Number.
 Memory Usage: 13.2 MB, less than 5.03% of Python3 online submissions for Palindrome Number.
