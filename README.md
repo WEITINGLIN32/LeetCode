@@ -65,43 +65,43 @@
 
 |[204. Count Primes](https://leetcode.com/problems/count-primes/) | [Python](./code/python/CountPrimes.py) | Easy |
 
-|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+|[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](./code/python/ReverseLinkedList.py) | Easy |
 
-|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+|[217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](./code/python/ContainsDuplicate.py) | Easy |
 
-|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+|[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python](./code/python/InvertBinaryTree.py) | Easy |
 
-|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+|[231. Power of Two](https://leetcode.com/problems/power-of-two/) | [Python](./code/python/PowerofTwo.py) | Easy |
 
-|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+|[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](./code/python/ProductofArrayExceptSelf.py) | Medium |
 
-|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+|[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](./code/python/ValidAnagram.py) | Easy |
 
-|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+|[258. Add Digits](https://leetcode.com/problems/add-digits/) | [Python](./code/python/AddDigits.py) | Easy |
 
-|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+|[260. Single Number III](https://leetcode.com/problems/single-number-iii/) | [Python](./code/python/SingleNumberIII.py) | Medium |
 
-|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+|[268. Missing Number](https://leetcode.com/problems/missing-number/) | [Python](./code/python/MissingNumber.py) | Easy |
 
-|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+|[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](./code/python/MoveZeroes.py) | Easy |
 
-|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+|[292. Nim Game](https://leetcode.com/problems/nim-game/) | [Python](./code/python/NimGame.py) | Easy |
 
-|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+|[326. Power of Three](https://leetcode.com/problems/power-of-three/) | [Python](./code/python/PalindromeNumber.py) | Easy |
 
-|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+|[338. Counting Bits](https://leetcode.com/problems/counting-bits/) | [Python](./code/python/PalindromeNumber.py) | Easy |
 
-|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+|[342. Power of Four](https://leetcode.com/problems/power-of-four/) | [Python](./code/python/PalindromeNumber.py) | Easy |
 
-|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+|[344. Reverse String](https://leetcode.com/problems/reverse-string/) | [Python](./code/python/PalindromeNumber.py) | Easy |
 
-|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+|[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](./code/python/PalindromeNumber.py) | Easy |
 
-|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+|[349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python](./code/python/PalindromeNumber.py) | Easy |
 
-|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+|[350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Python](./code/python/PalindromeNumber.py) | Easy |
 
-|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+|[383. Ransom Note](https://leetcode.com/problems/ransom-note/) | [Python](./code/python/PalindromeNumber.py) | Easy |
 
 |[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
 
