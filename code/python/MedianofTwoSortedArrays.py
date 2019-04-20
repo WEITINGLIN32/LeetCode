@@ -21,7 +21,7 @@ Example:
 
 class Solution:
     def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:   
-        x=nums1+nums2
+        x = nums1 + nums2
         x.sort()
         if len(x)%2 == 1:
             return float(x[int(len(x)/2)])
