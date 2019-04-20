@@ -12,3 +12,49 @@
 |[7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](./code/python/ReverseInteger.py) | Easy |
 
 |[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+
+|[13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](./code/python/RomantoInteger.py) | Easy |
+
+|[14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python](./code/python/LongestCommonPrefix.py) | Easy |
+
+|[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./code/python/MergeTwoSortedLists.py) | Easy |
+
+|[27. Remove Element](https://leetcode.com/problems/remove-element/) | [Python](./code/python/RemoveElement.py) | Easy |
+
+|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+
+|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+
+|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+
+|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+
+|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+
+|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+
+|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+
+|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+
+|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+
+|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+
+|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+
+|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+
+|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+
+|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+
+|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+
+|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+
+|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+
+|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+
+|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
