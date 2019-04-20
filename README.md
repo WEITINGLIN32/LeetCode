@@ -23,11 +23,11 @@
 
 |[28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Python](./code/python/ImplementstrStr.py) | Easy |
 
-|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+|[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./code/python/SearchInsertPosition.py) | Easy |
 
-|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+|[46. Permutations](https://leetcode.com/problems/permutations/) | [Python](./code/python/Permutations.py) | Medium |
 
-|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+|[50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Python](./code/python/Pow.py) | Medium |
 
 |[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
 
