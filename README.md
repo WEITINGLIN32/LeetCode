@@ -63,7 +63,7 @@
 
 |[202. Happy Number](https://leetcode.com/problems/happy-number/) | [Python](./code/python/HappyNumber.py) | Easy |
 
-|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+|[204. Count Primes](https://leetcode.com/problems/count-primes/) | [Python](./code/python/CountPrimes.py) | Easy |
 
 |[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
 
