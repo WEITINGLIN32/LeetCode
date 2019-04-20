@@ -29,25 +29,25 @@
 
 |[50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Python](./code/python/Pow.py) | Medium |
 
-|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+|[66. Plus One](https://leetcode.com/problems/plus-one/) | [Python](./code/python/PlusOne.py) | Easy |
 
-|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+|[69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Python](./code/python/Sqrt.py) | Easy |
 
-|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+|[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](./code/python/ClimbingStairs.py) | Easy |
 
-|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+|[73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Python](./code/python/SetMatrixZeroes.py) | Medium |
 
-|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+|[83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python](./code/python/RemoveDuplicatesfromSortedList.py) | Easy |
 
-|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+|[94. Binary Tree Inorder Traversal](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/BinaryTreeInorderTraversal.py) | Medium |
 
-|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+|[100. Same Tree](https://leetcode.com/problems/same-tree/) | [Python](./code/python/SameTree.py) | Easy |
 
-|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+|[104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](./code/python/MaximumDepthofBinaryTree.py) | Easy |
 
-|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+|[107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Python](./code/python/BinaryTreeLevelOrderTraversalII.py) | Easy |
 
-|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
+|[118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Python](./code/python/PascalsTriangle.py) | Easy |
 
 |[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./code/python/PalindromeNumber.py) | Easy |
 
